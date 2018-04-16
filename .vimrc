@@ -1,3 +1,7 @@
+" FIRST INSTALL VUNDLE
+"   git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+" SECOND RUN :PluginInstall
+
 " Change leader to a comma because the backslash is too far away
 " That means all \x commands turn into ,x
 " The mapleader has to be set before vundle starts loading all 
